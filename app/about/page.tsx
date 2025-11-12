@@ -2,7 +2,6 @@
 
 import React from "react";
 import { Separator } from "@/components/ui/separator";
-import { TrendingUp } from "lucide-react";
 import { Pie, PieChart } from "recharts";
 import {
   Card,
